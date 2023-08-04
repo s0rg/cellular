@@ -1,0 +1,10 @@
+github.com/s0rg/array2d v1.1.1 h1:fPZDbolqx9P0gCaD9yFTZT0TcWa6o/gK4t0YnGRpp/0=
+github.com/s0rg/array2d v1.1.1/go.mod h1:XUVXpxRB1bSnngbrTAyfEcLl6GP+8OpyFLEkwvQOukI=
+github.com/s0rg/grid v1.3.1 h1:pYrlO0vvq7HPDEf4t19i4sJvLpCZjgtw8KkUSzXKHyA=
+github.com/s0rg/grid v1.3.1/go.mod h1:3KiA0KsOZMPScvdeGLzE7zbJozk+8jwv1P20pX6Vwpc=
+github.com/s0rg/set v1.0.1 h1:eJ2KSRUwnIZOBtlQScgET80+jkm/ro01pn6YeZzgWp4=
+github.com/s0rg/set v1.0.1/go.mod h1:aBGSm+F2mCTDjNIRR4GMB04NMqZBhtSh0tOBe/u5z5k=
+github.com/s0rg/vec2d v1.1.1 h1:asdV+Iev4M5lcFwB46883k8oLku4JgNQHyI/4SHAtMo=
+github.com/s0rg/vec2d v1.1.1/go.mod h1:/0pgb+2ax3mWfBZ1gb9LMMFawvmGyWpgCjk8a/ImCgg=
+golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b h1:r+vk0EmXNmekl0S0BascoeeoHk/L7wmaW2QF90K+kYI=
+golang.org/x/exp v0.0.0-20230801115018-d63ba01acd4b/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
